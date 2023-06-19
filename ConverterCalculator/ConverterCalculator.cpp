@@ -34,7 +34,7 @@ int main()
 	while (calculationAgain != 2) { // in lines 108, and 109, this will get user input 1 or 2, 2 means "no more"
 		// Prompt the user to choose their preferred unit system
 		do {
-			std::cout << endl << endl;
+			std::cout << endl << endl<<endl;
 
 			cout << "Choose your preferred unit system" << endl;
 			cout << "1. imperial (pounds and feet)" << endl;
